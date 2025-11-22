@@ -1,0 +1,15 @@
+__pycache__/
+*.pt
+*.pth
+data/raw/*
+experiments/*__pycache__/
+*.pt
+*.pth
+*.onnx
+.DS_Store
+.ipynb_checkpoints/
+env/
+venv/
+outputs/
+experiments/checkpoints/
+

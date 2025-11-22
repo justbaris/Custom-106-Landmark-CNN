@@ -1,0 +1,5 @@
+model:
+  num_landmarks: 106
+  channels: 32
+  depth: 3
+  up_blocks: 3

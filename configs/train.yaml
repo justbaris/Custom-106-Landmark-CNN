@@ -1,0 +1,7 @@
+train:
+  batch_size: 16
+  epochs: 50
+  lr: 0.0002
+  heatmap_size: 64
+  device: "cuda"
+  early_stop_patience: 8
